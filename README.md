@@ -23,29 +23,28 @@
 
 ---
 
-### Bahasa & Query
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql)
+## 🛠️ Tools & Library
 
-### Data Library
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
-
-### Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
-![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+### 🧩 Data Stack
+| Category | Tools |
+|--------|------|
+| Programming | Python |
+| Query Language | SQL (PostgreSQL, MySQL) |
+| Data Analysis | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Development Tools | Jupyter Notebook, VS Code |
 
 ---
 
-## 📚 Tools & Library
-- Pandas & NumPy → manipulasi data
-- Matplotlib & Seaborn → visualisasi data
-- SQL (PostgreSQL, MySQL) → query database
-- Jupyter Notebook → eksplorasi data interaktif
+### ⚙️ Tech I Use
+![Python](https://img.shields.io/badge/Python-Expertise-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey?logo=postgresql)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Stats%20Viz-lightblue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?logo=visualstudiocode)
 
 ---
 ## 💡 Filosofi Belajar
