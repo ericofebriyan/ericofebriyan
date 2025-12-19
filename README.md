@@ -1,6 +1,6 @@
 # Halo, saya M Erico Febriyan👋
 
-## 🚀 Tentang Saya
+## 🚀 tantang saya 
 - 📊 Sedang belajar **Python** dan **SQL** untuk semua bidang data (Analyst, Engineer, Scientist)
 - 🌱 Fokus memahami **Python untuk data**: manipulasi, analisis, visualisasi, dan automasi
 - 🎓 Sedang kuliah di **Universitas Islam Madura**, Fakultas Teknik, Prodi Teknik Informatika
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Bahasa & Tools untuk Data
+## 🛠️ Bahasa & Tools 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
