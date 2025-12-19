@@ -1,23 +1,43 @@
 # Halo, saya M Erico Febriyan👋
 
-## 🚀 tantang saya 
-- 📊 Sedang belajar **Python** dan **SQL** untuk semua bidang data (Analyst, Engineer, Scientist)
-- 🌱 Fokus memahami **Python untuk data**: manipulasi, analisis, visualisasi, dan automasi
-- 🎓 Sedang kuliah di **Universitas Islam Madura**, Fakultas Teknik, Prodi Teknik Informatika
-- 💡 Tertarik dengan dunia **Data Engineering** dan **Data Science**
-- 📫 Bisa dihubungi lewat [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/erico-febriyan-062753394/)) atau [Email](ericofebriyan90@gmail.com)
-
+📊 **Data Enthusiast | Python & SQL Learner | Aspiring Data Analyst & Engineer**
 
 ---
 
-## 🛠️ Bahasa & Tools 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 🚀 tantang saya 
+- 🎓 Mahasiswa Teknik Informatika – Universitas Islam Madura
+- 📊 Fokus belajar Python & SQL untuk Data Analysis, Data Engineering, dan Data Science
+- 🐍 Menggunakan Python untuk manipulasi data, analisis, dan visualisasi
+- 🗄️ Menggunakan SQL untuk eksplorasi dan pengolahan database
+- 💡 Tertarik mengubah data mentah menjadi insight yang bermakna
+- 📫 Bisa dihubungi lewat [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/erico-febriyan-062753394/)) atau [Email](ericofebriyan90@gmail.com)
+
+---
+
+## 🧠 Learning Focus
+- Data Analysis dengan Python
+- Query & pengolahan data menggunakan SQL
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Fundamental Data Engineering
+
+---
+
+### Bahasa & Query
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql)
+
+### Data Library
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
+![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 ---
 
